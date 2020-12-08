@@ -1,7 +1,7 @@
 from app.wsgi import *
 from core.erp.models import Type, Employee
 
-#Insertar
+#Insertar pruebasssss
 
 #t = Type()
 #t.names ='prubaaaxdxdxdxdxd'
